@@ -1,4 +1,4 @@
-## 👩‍🎓 A Bit About Me
+## 👩‍🎓 A bit about me
 
 -🌟 hii, I'm elisa, an engineering and computer science student <br/>
 -🎓 currently studying at [University of Bologna](https://www.unibo.it/en) <br/>
@@ -12,7 +12,7 @@
 
 </div>
 
-## 📅 GitHub Activity
+## 📅 GitHub activity
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisayan)](https://github.com/anuraghazra/github-readme-stats)
