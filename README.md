@@ -1,8 +1,8 @@
 ## 👩‍🎓 A bit about me
 
--🌟 hii, I'm elisa, a computer science and engineering student <br/>
--🎓 currently studying at [University of Bologna](https://www.unibo.it/en) <br/>
--🌎 based in Italy
+* 🌟 hii, I'm elisa, a computer science and engineering student <br/>
+* 🎓 currently studying at [University of Bologna](https://www.unibo.it/en) <br/>
+* 🌎 based in Italy
 
 ## 🚀 Languages & Tools
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-## 📅 GitHub Activity
+## 📅 GitHub Stats
 <div align="center">
   
 [![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisayan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
