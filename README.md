@@ -11,7 +11,7 @@
 
 </div>
 
-## 📅 GitHub Stats
+## 🧩 GitHub Stats
 <div align="center">
   
 [![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisayan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
