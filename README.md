@@ -1,6 +1,6 @@
 ## 👩‍🎓 A bit about me
 
--🌟 hii, I'm elisa, an computer science and engineering student <br/>
+-🌟 hii, I'm elisa, a computer science and engineering student <br/>
 -🎓 currently studying at [University of Bologna](https://www.unibo.it/en) <br/>
 -🌎 based in Italy
 
