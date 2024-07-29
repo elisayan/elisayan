@@ -14,12 +14,11 @@
 ## 🧩 GitHub Stats
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=elisayan&theme=transparent&hide_border=false)<br/>
-[![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisayan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+[![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisayan&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=elisayan&theme=transparent&hide_border=true)
 
 </div>
-
 
 <div align="right">
   
