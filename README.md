@@ -19,8 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elisayan&theme=transparent&hide_border=true)
 
 </div>
-
-<div align="right">
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=elisayan)
-
-</div>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elisayan.elisayan" alt="Visitor Count"/>
+</p>
