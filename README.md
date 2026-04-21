@@ -1,4 +1,4 @@
-## 👩‍🎓 A bit about me <img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200">
+## 👩‍🎓 A bit about me <img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="180">
 * 🌟 hii, I'm elisa, a computer science and engineering student <br/>
 * 🎓 currently studying at [University of Bologna](https://www.unibo.it/en) <br/>
 * 🌎 based in Italy
