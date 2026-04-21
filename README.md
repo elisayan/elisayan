@@ -14,7 +14,7 @@
 ## 🧩 GitHub Stats
 <div align="center">
 
-![Elisa's Github stats](https://github-readme-stats.vercel.app/api?username=elisayan&show_icons=true&hide_border=true)
+![Elisa's Github stats](https://github-readme-stats.vercel.app/api?username=elisayan&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisayan&layout=compact&theme=transparent&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elisayan&theme=transparent&hide_border=true)
 
